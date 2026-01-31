@@ -144,7 +144,7 @@ pointbalancing.roblox.com
 premiumfeatures.roblox.com
 privatemessages.roblox.com
 ratings.roblox.com
-realtime.roblox.com
+realtime-signalr.roblox.com
 search.roblox.com
 tix.roblox.com
 trades.roblox.com
@@ -197,3 +197,10 @@ secure.footprint.net
 secure.llnwd.net
 roblox.qq.com
 roblox.cn
+ecsv2.roblox.com
+tracing.roblox.com
+usermoderation.roblox.com
+clientsettings.roblox.com
+apis.rbxcdn.com
+contacts.roblox.com
+tr.rbxcdn.com
